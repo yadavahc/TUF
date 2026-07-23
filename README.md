@@ -8,24 +8,24 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.5%
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.8%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **7 / 452** |
-| 📈 Completion | **1.5%** |
+| ✅ Problems solved | **8 / 452** |
+| 📈 Completion | **1.8%** |
 | 🗓️ Last updated | 2026-07-23 |
 
 ## 🧭 Latest solved
 
-**[Arrays and Strings Basics](01_learn-the-basics/01_things-to-know-in-c-the-basics/005_arrays-and-strings-basics/README.md)** — Step 1: Learn the Basics (`2026-07-23`)
+**[Functions and Pass by Reference](01_learn-the-basics/01_things-to-know-in-c-the-basics/008_functions-and-pass-by-reference/README.md)** — Step 1: Learn the Basics (`2026-07-23`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
-| 🔄 | Step 1 | Learn the Basics | 7 / 31 | 23% |
+| 🔄 | Step 1 | Learn the Basics | 8 / 31 | 26% |
 | ⬜ | Step 2 | Learn Important Sorting Techniques | 0 / 7 | 0% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-07-23` | [Functions and Pass by Reference](01_learn-the-basics/01_things-to-know-in-c-the-basics/008_functions-and-pass-by-reference/README.md) | Step 1: Learn the Basics |
 | `2026-07-23` | [Arrays and Strings Basics](01_learn-the-basics/01_things-to-know-in-c-the-basics/005_arrays-and-strings-basics/README.md) | Step 1: Learn the Basics |
 | `2026-07-23` | [Switch Statement](01_learn-the-basics/01_things-to-know-in-c-the-basics/004_switch-statement/README.md) | Step 1: Learn the Basics |
 | `2026-07-23` | [If Else Statements](01_learn-the-basics/01_things-to-know-in-c-the-basics/003_if-else-statements/README.md) | Step 1: Learn the Basics |
