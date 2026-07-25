@@ -8,24 +8,24 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.0%
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.2%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **9 / 452** |
-| 📈 Completion | **2.0%** |
-| 🗓️ Last updated | 2026-07-24 |
+| ✅ Problems solved | **10 / 452** |
+| 📈 Completion | **2.2%** |
+| 🗓️ Last updated | 2026-07-25 |
 
 ## 🧭 Latest solved
 
-**[Time Complexity Analysis](01_learn-the-basics/01_things-to-know-in-c-the-basics/009_time-complexity-analysis/README.md)** — Step 1: Learn the Basics (`2026-07-24`)
+**[Pattern Printing Problems](01_learn-the-basics/02_build-up-logical-thinking/010_pattern-printing-problems/README.md)** — Step 1: Learn the Basics (`2026-07-25`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
-| 🔄 | Step 1 | Learn the Basics | 9 / 31 | 29% |
+| 🔄 | Step 1 | Learn the Basics | 10 / 31 | 32% |
 | ⬜ | Step 2 | Learn Important Sorting Techniques | 0 / 7 | 0% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-07-25` | [Pattern Printing Problems](01_learn-the-basics/02_build-up-logical-thinking/010_pattern-printing-problems/README.md) | Step 1: Learn the Basics |
 | `2026-07-24` | [Time Complexity Analysis](01_learn-the-basics/01_things-to-know-in-c-the-basics/009_time-complexity-analysis/README.md) | Step 1: Learn the Basics |
 | `2026-07-23` | [Functions and Pass by Reference](01_learn-the-basics/01_things-to-know-in-c-the-basics/008_functions-and-pass-by-reference/README.md) | Step 1: Learn the Basics |
 | `2026-07-23` | [Arrays and Strings Basics](01_learn-the-basics/01_things-to-know-in-c-the-basics/005_arrays-and-strings-basics/README.md) | Step 1: Learn the Basics |
