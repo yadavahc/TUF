@@ -8,24 +8,24 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.2%
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.4%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **10 / 452** |
-| 📈 Completion | **2.2%** |
+| ✅ Problems solved | **11 / 452** |
+| 📈 Completion | **2.4%** |
 | 🗓️ Last updated | 2026-07-25 |
 
 ## 🧭 Latest solved
 
-**[Pattern Printing Problems](01_learn-the-basics/02_build-up-logical-thinking/010_pattern-printing-problems/README.md)** — Step 1: Learn the Basics (`2026-07-25`)
+**[C++ STL Overview](01_learn-the-basics/03_learn-stl/011_c-stl-overview/README.md)** — Step 1: Learn the Basics (`2026-07-25`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
-| 🔄 | Step 1 | Learn the Basics | 10 / 31 | 32% |
+| 🔄 | Step 1 | Learn the Basics | 11 / 31 | 35% |
 | ⬜ | Step 2 | Learn Important Sorting Techniques | 0 / 7 | 0% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-07-25` | [C++ STL Overview](01_learn-the-basics/03_learn-stl/011_c-stl-overview/README.md) | Step 1: Learn the Basics |
 | `2026-07-25` | [Pattern Printing Problems](01_learn-the-basics/02_build-up-logical-thinking/010_pattern-printing-problems/README.md) | Step 1: Learn the Basics |
 | `2026-07-24` | [Time Complexity Analysis](01_learn-the-basics/01_things-to-know-in-c-the-basics/009_time-complexity-analysis/README.md) | Step 1: Learn the Basics |
 | `2026-07-23` | [Functions and Pass by Reference](01_learn-the-basics/01_things-to-know-in-c-the-basics/008_functions-and-pass-by-reference/README.md) | Step 1: Learn the Basics |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-07-23` | [Data Types](01_learn-the-basics/01_things-to-know-in-c-the-basics/002_data-types/README.md) | Step 1: Learn the Basics |
 | `2026-07-23` | [User Input and Output](01_learn-the-basics/01_things-to-know-in-c-the-basics/001_user-input-and-output/README.md) | Step 1: Learn the Basics |
 | `2026-07-23` | [While Loops](01_learn-the-basics/01_things-to-know-in-c-the-basics/007_while-loops/README.md) | Step 1: Learn the Basics |
-| `2026-07-23` | [For Loops](01_learn-the-basics/01_things-to-know-in-c-the-basics/006_for-loops/README.md) | Step 1: Learn the Basics |
 
 ---
 
