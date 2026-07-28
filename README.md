@@ -8,24 +8,24 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.1%
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.3%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **14 / 452** |
-| 📈 Completion | **3.1%** |
-| 🗓️ Last updated | 2026-07-27 |
+| ✅ Problems solved | **15 / 452** |
+| 📈 Completion | **3.3%** |
+| 🗓️ Last updated | 2026-07-28 |
 
 ## 🧭 Latest solved
 
-**[Check Palindrome Number](01_learn-the-basics/04_know-basic-maths/014_check-palindrome-number/README.md)** — Step 1: Learn the Basics (`2026-07-27`)
+**[GCD or HCF of Two Numbers](01_learn-the-basics/04_know-basic-maths/015_gcd-or-hcf-of-two-numbers/README.md)** — Step 1: Learn the Basics (`2026-07-28`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
-| 🔄 | Step 1 | Learn the Basics | 14 / 31 | 45% |
+| 🔄 | Step 1 | Learn the Basics | 15 / 31 | 48% |
 | ⬜ | Step 2 | Learn Important Sorting Techniques | 0 / 7 | 0% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-07-28` | [GCD or HCF of Two Numbers](01_learn-the-basics/04_know-basic-maths/015_gcd-or-hcf-of-two-numbers/README.md) | Step 1: Learn the Basics |
 | `2026-07-27` | [Check Palindrome Number](01_learn-the-basics/04_know-basic-maths/014_check-palindrome-number/README.md) | Step 1: Learn the Basics |
 | `2026-07-26` | [Reverse a Number](01_learn-the-basics/04_know-basic-maths/013_reverse-a-number/README.md) | Step 1: Learn the Basics |
 | `2026-07-25` | [Count Digits of a Number](01_learn-the-basics/04_know-basic-maths/012_count-digits-of-a-number/README.md) | Step 1: Learn the Basics |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-07-23` | [Functions and Pass by Reference](01_learn-the-basics/01_things-to-know-in-c-the-basics/008_functions-and-pass-by-reference/README.md) | Step 1: Learn the Basics |
 | `2026-07-23` | [Arrays and Strings Basics](01_learn-the-basics/01_things-to-know-in-c-the-basics/005_arrays-and-strings-basics/README.md) | Step 1: Learn the Basics |
 | `2026-07-23` | [Switch Statement](01_learn-the-basics/01_things-to-know-in-c-the-basics/004_switch-statement/README.md) | Step 1: Learn the Basics |
-| `2026-07-23` | [If Else Statements](01_learn-the-basics/01_things-to-know-in-c-the-basics/003_if-else-statements/README.md) | Step 1: Learn the Basics |
 
 ---
 
