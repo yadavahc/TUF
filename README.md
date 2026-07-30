@@ -8,24 +8,24 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.5%
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.8%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **16 / 452** |
-| 📈 Completion | **3.5%** |
-| 🗓️ Last updated | 2026-07-29 |
+| ✅ Problems solved | **17 / 452** |
+| 📈 Completion | **3.8%** |
+| 🗓️ Last updated | 2026-07-30 |
 
 ## 🧭 Latest solved
 
-**[Armstrong Number](01_learn-the-basics/04_know-basic-maths/016_armstrong-number/README.md)** — Step 1: Learn the Basics (`2026-07-29`)
+**[Print All Divisors of a Number](01_learn-the-basics/04_know-basic-maths/017_print-all-divisors-of-a-number/README.md)** — Step 1: Learn the Basics (`2026-07-30`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
-| 🔄 | Step 1 | Learn the Basics | 16 / 31 | 52% |
+| 🔄 | Step 1 | Learn the Basics | 17 / 31 | 55% |
 | ⬜ | Step 2 | Learn Important Sorting Techniques | 0 / 7 | 0% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-07-30` | [Print All Divisors of a Number](01_learn-the-basics/04_know-basic-maths/017_print-all-divisors-of-a-number/README.md) | Step 1: Learn the Basics |
 | `2026-07-29` | [Armstrong Number](01_learn-the-basics/04_know-basic-maths/016_armstrong-number/README.md) | Step 1: Learn the Basics |
 | `2026-07-28` | [GCD or HCF of Two Numbers](01_learn-the-basics/04_know-basic-maths/015_gcd-or-hcf-of-two-numbers/README.md) | Step 1: Learn the Basics |
 | `2026-07-27` | [Check Palindrome Number](01_learn-the-basics/04_know-basic-maths/014_check-palindrome-number/README.md) | Step 1: Learn the Basics |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-07-25` | [Pattern Printing Problems](01_learn-the-basics/02_build-up-logical-thinking/010_pattern-printing-problems/README.md) | Step 1: Learn the Basics |
 | `2026-07-24` | [Time Complexity Analysis](01_learn-the-basics/01_things-to-know-in-c-the-basics/009_time-complexity-analysis/README.md) | Step 1: Learn the Basics |
 | `2026-07-23` | [Functions and Pass by Reference](01_learn-the-basics/01_things-to-know-in-c-the-basics/008_functions-and-pass-by-reference/README.md) | Step 1: Learn the Basics |
-| `2026-07-23` | [Arrays and Strings Basics](01_learn-the-basics/01_things-to-know-in-c-the-basics/005_arrays-and-strings-basics/README.md) | Step 1: Learn the Basics |
 
 ---
 
