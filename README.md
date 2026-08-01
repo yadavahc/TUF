@@ -8,24 +8,24 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.0%
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.2%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **18 / 452** |
-| 📈 Completion | **4.0%** |
-| 🗓️ Last updated | 2026-07-31 |
+| ✅ Problems solved | **19 / 452** |
+| 📈 Completion | **4.2%** |
+| 🗓️ Last updated | 2026-08-01 |
 
 ## 🧭 Latest solved
 
-**[Check for Prime Number](01_learn-the-basics/04_know-basic-maths/018_check-for-prime-number/README.md)** — Step 1: Learn the Basics (`2026-07-31`)
+**[Understand Recursion by Printing Something N Times](01_learn-the-basics/05_learn-basic-recursion/019_understand-recursion-by-printing-something-n-times/README.md)** — Step 1: Learn the Basics (`2026-08-01`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
-| 🔄 | Step 1 | Learn the Basics | 18 / 31 | 58% |
+| 🔄 | Step 1 | Learn the Basics | 19 / 31 | 61% |
 | ⬜ | Step 2 | Learn Important Sorting Techniques | 0 / 7 | 0% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-08-01` | [Understand Recursion by Printing Something N Times](01_learn-the-basics/05_learn-basic-recursion/019_understand-recursion-by-printing-something-n-times/README.md) | Step 1: Learn the Basics |
 | `2026-07-31` | [Check for Prime Number](01_learn-the-basics/04_know-basic-maths/018_check-for-prime-number/README.md) | Step 1: Learn the Basics |
 | `2026-07-30` | [Print All Divisors of a Number](01_learn-the-basics/04_know-basic-maths/017_print-all-divisors-of-a-number/README.md) | Step 1: Learn the Basics |
 | `2026-07-29` | [Armstrong Number](01_learn-the-basics/04_know-basic-maths/016_armstrong-number/README.md) | Step 1: Learn the Basics |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-07-25` | [Count Digits of a Number](01_learn-the-basics/04_know-basic-maths/012_count-digits-of-a-number/README.md) | Step 1: Learn the Basics |
 | `2026-07-25` | [C++ STL Overview](01_learn-the-basics/03_learn-stl/011_c-stl-overview/README.md) | Step 1: Learn the Basics |
 | `2026-07-25` | [Pattern Printing Problems](01_learn-the-basics/02_build-up-logical-thinking/010_pattern-printing-problems/README.md) | Step 1: Learn the Basics |
-| `2026-07-24` | [Time Complexity Analysis](01_learn-the-basics/01_things-to-know-in-c-the-basics/009_time-complexity-analysis/README.md) | Step 1: Learn the Basics |
 
 ---
 
