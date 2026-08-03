@@ -8,24 +8,24 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.4%
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.6%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **20 / 452** |
-| 📈 Completion | **4.4%** |
-| 🗓️ Last updated | 2026-08-02 |
+| ✅ Problems solved | **21 / 452** |
+| 📈 Completion | **4.6%** |
+| 🗓️ Last updated | 2026-08-03 |
 
 ## 🧭 Latest solved
 
-**[Print Name N Times Using Recursion](01_learn-the-basics/05_learn-basic-recursion/020_print-name-n-times-using-recursion/README.md)** — Step 1: Learn the Basics (`2026-08-02`)
+**[Print 1 to N Using Recursion](01_learn-the-basics/05_learn-basic-recursion/021_print-1-to-n-using-recursion/README.md)** — Step 1: Learn the Basics (`2026-08-03`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
-| 🔄 | Step 1 | Learn the Basics | 20 / 31 | 65% |
+| 🔄 | Step 1 | Learn the Basics | 21 / 31 | 68% |
 | ⬜ | Step 2 | Learn Important Sorting Techniques | 0 / 7 | 0% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-08-03` | [Print 1 to N Using Recursion](01_learn-the-basics/05_learn-basic-recursion/021_print-1-to-n-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-02` | [Print Name N Times Using Recursion](01_learn-the-basics/05_learn-basic-recursion/020_print-name-n-times-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-01` | [Understand Recursion by Printing Something N Times](01_learn-the-basics/05_learn-basic-recursion/019_understand-recursion-by-printing-something-n-times/README.md) | Step 1: Learn the Basics |
 | `2026-07-31` | [Check for Prime Number](01_learn-the-basics/04_know-basic-maths/018_check-for-prime-number/README.md) | Step 1: Learn the Basics |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-07-27` | [Check Palindrome Number](01_learn-the-basics/04_know-basic-maths/014_check-palindrome-number/README.md) | Step 1: Learn the Basics |
 | `2026-07-26` | [Reverse a Number](01_learn-the-basics/04_know-basic-maths/013_reverse-a-number/README.md) | Step 1: Learn the Basics |
 | `2026-07-25` | [Count Digits of a Number](01_learn-the-basics/04_know-basic-maths/012_count-digits-of-a-number/README.md) | Step 1: Learn the Basics |
-| `2026-07-25` | [C++ STL Overview](01_learn-the-basics/03_learn-stl/011_c-stl-overview/README.md) | Step 1: Learn the Basics |
 
 ---
 
