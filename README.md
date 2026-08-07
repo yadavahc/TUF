@@ -8,24 +8,24 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.3%
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.5%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **24 / 452** |
-| 📈 Completion | **5.3%** |
-| 🗓️ Last updated | 2026-08-06 |
+| ✅ Problems solved | **25 / 452** |
+| 📈 Completion | **5.5%** |
+| 🗓️ Last updated | 2026-08-07 |
 
 ## 🧭 Latest solved
 
-**[Factorial of N Using Recursion](01_learn-the-basics/05_learn-basic-recursion/024_factorial-of-n-using-recursion/README.md)** — Step 1: Learn the Basics (`2026-08-06`)
+**[Reverse an Array Using Recursion](01_learn-the-basics/05_learn-basic-recursion/025_reverse-an-array-using-recursion/README.md)** — Step 1: Learn the Basics (`2026-08-07`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
-| 🔄 | Step 1 | Learn the Basics | 24 / 31 | 77% |
+| 🔄 | Step 1 | Learn the Basics | 25 / 31 | 81% |
 | ⬜ | Step 2 | Learn Important Sorting Techniques | 0 / 7 | 0% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-08-07` | [Reverse an Array Using Recursion](01_learn-the-basics/05_learn-basic-recursion/025_reverse-an-array-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-06` | [Factorial of N Using Recursion](01_learn-the-basics/05_learn-basic-recursion/024_factorial-of-n-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-05` | [Sum of First N Numbers Using Recursion](01_learn-the-basics/05_learn-basic-recursion/023_sum-of-first-n-numbers-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-04` | [Print N to 1 Using Recursion](01_learn-the-basics/05_learn-basic-recursion/022_print-n-to-1-using-recursion/README.md) | Step 1: Learn the Basics |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-07-31` | [Check for Prime Number](01_learn-the-basics/04_know-basic-maths/018_check-for-prime-number/README.md) | Step 1: Learn the Basics |
 | `2026-07-30` | [Print All Divisors of a Number](01_learn-the-basics/04_know-basic-maths/017_print-all-divisors-of-a-number/README.md) | Step 1: Learn the Basics |
 | `2026-07-29` | [Armstrong Number](01_learn-the-basics/04_know-basic-maths/016_armstrong-number/README.md) | Step 1: Learn the Basics |
-| `2026-07-28` | [GCD or HCF of Two Numbers](01_learn-the-basics/04_know-basic-maths/015_gcd-or-hcf-of-two-numbers/README.md) | Step 1: Learn the Basics |
 
 ---
 
