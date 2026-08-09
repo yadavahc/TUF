@@ -8,24 +8,24 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.8%
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  6.0%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **26 / 452** |
-| 📈 Completion | **5.8%** |
-| 🗓️ Last updated | 2026-08-08 |
+| ✅ Problems solved | **27 / 452** |
+| 📈 Completion | **6.0%** |
+| 🗓️ Last updated | 2026-08-09 |
 
 ## 🧭 Latest solved
 
-**[Check if a String is Palindrome Using Recursion](01_learn-the-basics/05_learn-basic-recursion/026_check-if-a-string-is-palindrome-using-recursion/README.md)** — Step 1: Learn the Basics (`2026-08-08`)
+**[Fibonacci Number Using Recursion](01_learn-the-basics/05_learn-basic-recursion/027_fibonacci-number-using-recursion/README.md)** — Step 1: Learn the Basics (`2026-08-09`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
-| 🔄 | Step 1 | Learn the Basics | 26 / 31 | 84% |
+| 🔄 | Step 1 | Learn the Basics | 27 / 31 | 87% |
 | ⬜ | Step 2 | Learn Important Sorting Techniques | 0 / 7 | 0% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-08-09` | [Fibonacci Number Using Recursion](01_learn-the-basics/05_learn-basic-recursion/027_fibonacci-number-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-08` | [Check if a String is Palindrome Using Recursion](01_learn-the-basics/05_learn-basic-recursion/026_check-if-a-string-is-palindrome-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-07` | [Reverse an Array Using Recursion](01_learn-the-basics/05_learn-basic-recursion/025_reverse-an-array-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-06` | [Factorial of N Using Recursion](01_learn-the-basics/05_learn-basic-recursion/024_factorial-of-n-using-recursion/README.md) | Step 1: Learn the Basics |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-08-02` | [Print Name N Times Using Recursion](01_learn-the-basics/05_learn-basic-recursion/020_print-name-n-times-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-01` | [Understand Recursion by Printing Something N Times](01_learn-the-basics/05_learn-basic-recursion/019_understand-recursion-by-printing-something-n-times/README.md) | Step 1: Learn the Basics |
 | `2026-07-31` | [Check for Prime Number](01_learn-the-basics/04_know-basic-maths/018_check-for-prime-number/README.md) | Step 1: Learn the Basics |
-| `2026-07-30` | [Print All Divisors of a Number](01_learn-the-basics/04_know-basic-maths/017_print-all-divisors-of-a-number/README.md) | Step 1: Learn the Basics |
 
 ---
 
