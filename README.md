@@ -8,25 +8,25 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  6.9%
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  7.1%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **31 / 452** |
-| 📈 Completion | **6.9%** |
-| 🗓️ Last updated | 2026-08-11 |
+| ✅ Problems solved | **32 / 452** |
+| 📈 Completion | **7.1%** |
+| 🗓️ Last updated | 2026-08-12 |
 
 ## 🧭 Latest solved
 
-**[Lowest Frequency Element](01_learn-the-basics/06_learn-basic-hashing/031_lowest-frequency-element/README.md)** — Step 1: Learn the Basics (`2026-08-11`)
+**[Selection Sort](02_learn-important-sorting-techniques/01_sorting-i/032_selection-sort/README.md)** — Step 2: Learn Important Sorting Techniques (`2026-08-12`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
 | ✅ | Step 1 | Learn the Basics | 31 / 31 | 100% |
-| ⬜ | Step 2 | Learn Important Sorting Techniques | 0 / 7 | 0% |
+| 🔄 | Step 2 | Learn Important Sorting Techniques | 1 / 7 | 14% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
 | ⬜ | Step 5 | Strings Basic and Medium | 0 / 15 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-08-12` | [Selection Sort](02_learn-important-sorting-techniques/01_sorting-i/032_selection-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-11` | [Lowest Frequency Element](01_learn-the-basics/06_learn-basic-hashing/031_lowest-frequency-element/README.md) | Step 1: Learn the Basics |
 | `2026-08-10` | [Highest Frequency Element](01_learn-the-basics/06_learn-basic-hashing/030_highest-frequency-element/README.md) | Step 1: Learn the Basics |
 | `2026-08-10` | [Count Frequencies of Array Elements](01_learn-the-basics/06_learn-basic-hashing/029_count-frequencies-of-array-elements/README.md) | Step 1: Learn the Basics |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-08-07` | [Reverse an Array Using Recursion](01_learn-the-basics/05_learn-basic-recursion/025_reverse-an-array-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-06` | [Factorial of N Using Recursion](01_learn-the-basics/05_learn-basic-recursion/024_factorial-of-n-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-05` | [Sum of First N Numbers Using Recursion](01_learn-the-basics/05_learn-basic-recursion/023_sum-of-first-n-numbers-using-recursion/README.md) | Step 1: Learn the Basics |
-| `2026-08-04` | [Print N to 1 Using Recursion](01_learn-the-basics/05_learn-basic-recursion/022_print-n-to-1-using-recursion/README.md) | Step 1: Learn the Basics |
 
 ---
 
