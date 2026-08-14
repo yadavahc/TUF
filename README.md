@@ -8,25 +8,25 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  7.3%
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  7.5%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **33 / 452** |
-| 📈 Completion | **7.3%** |
-| 🗓️ Last updated | 2026-08-13 |
+| ✅ Problems solved | **34 / 452** |
+| 📈 Completion | **7.5%** |
+| 🗓️ Last updated | 2026-08-14 |
 
 ## 🧭 Latest solved
 
-**[Bubble Sort](02_learn-important-sorting-techniques/01_sorting-i/033_bubble-sort/README.md)** — Step 2: Learn Important Sorting Techniques (`2026-08-13`)
+**[Insertion Sort](02_learn-important-sorting-techniques/01_sorting-i/034_insertion-sort/README.md)** — Step 2: Learn Important Sorting Techniques (`2026-08-14`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
 | ✅ | Step 1 | Learn the Basics | 31 / 31 | 100% |
-| 🔄 | Step 2 | Learn Important Sorting Techniques | 2 / 7 | 29% |
+| 🔄 | Step 2 | Learn Important Sorting Techniques | 3 / 7 | 43% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
 | ⬜ | Step 5 | Strings Basic and Medium | 0 / 15 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-08-14` | [Insertion Sort](02_learn-important-sorting-techniques/01_sorting-i/034_insertion-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-13` | [Bubble Sort](02_learn-important-sorting-techniques/01_sorting-i/033_bubble-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-12` | [Selection Sort](02_learn-important-sorting-techniques/01_sorting-i/032_selection-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-11` | [Lowest Frequency Element](01_learn-the-basics/06_learn-basic-hashing/031_lowest-frequency-element/README.md) | Step 1: Learn the Basics |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-08-09` | [Fibonacci Number Using Recursion](01_learn-the-basics/05_learn-basic-recursion/027_fibonacci-number-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-08` | [Check if a String is Palindrome Using Recursion](01_learn-the-basics/05_learn-basic-recursion/026_check-if-a-string-is-palindrome-using-recursion/README.md) | Step 1: Learn the Basics |
 | `2026-08-07` | [Reverse an Array Using Recursion](01_learn-the-basics/05_learn-basic-recursion/025_reverse-an-array-using-recursion/README.md) | Step 1: Learn the Basics |
-| `2026-08-06` | [Factorial of N Using Recursion](01_learn-the-basics/05_learn-basic-recursion/024_factorial-of-n-using-recursion/README.md) | Step 1: Learn the Basics |
 
 ---
 
