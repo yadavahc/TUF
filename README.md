@@ -8,25 +8,25 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  8.2%
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░  8.4%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **37 / 452** |
-| 📈 Completion | **8.2%** |
-| 🗓️ Last updated | 2026-08-17 |
+| ✅ Problems solved | **38 / 452** |
+| 📈 Completion | **8.4%** |
+| 🗓️ Last updated | 2026-08-19 |
 
 ## 🧭 Latest solved
 
-**[Recursive Insertion Sort](02_learn-important-sorting-techniques/02_sorting-ii/037_recursive-insertion-sort/README.md)** — Step 2: Learn Important Sorting Techniques (`2026-08-17`)
+**[Quick Sort](02_learn-important-sorting-techniques/02_sorting-ii/038_quick-sort/README.md)** — Step 2: Learn Important Sorting Techniques (`2026-08-19`)
 
 ## 🗂️ Topic-wise progress
 
 | | Step | Topic | Solved | Progress |
 |---|---|---|---|---|
 | ✅ | Step 1 | Learn the Basics | 31 / 31 | 100% |
-| 🔄 | Step 2 | Learn Important Sorting Techniques | 6 / 7 | 86% |
+| ✅ | Step 2 | Learn Important Sorting Techniques | 7 / 7 | 100% |
 | ⬜ | Step 3 | Solve Problems on Arrays | 0 / 40 | 0% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
 | ⬜ | Step 5 | Strings Basic and Medium | 0 / 15 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-08-19` | [Quick Sort](02_learn-important-sorting-techniques/02_sorting-ii/038_quick-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-17` | [Recursive Insertion Sort](02_learn-important-sorting-techniques/02_sorting-ii/037_recursive-insertion-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-16` | [Recursive Bubble Sort](02_learn-important-sorting-techniques/02_sorting-ii/036_recursive-bubble-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-15` | [Merge Sort](02_learn-important-sorting-techniques/02_sorting-ii/035_merge-sort/README.md) | Step 2: Learn Important Sorting Techniques |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-08-11` | [Lowest Frequency Element](01_learn-the-basics/06_learn-basic-hashing/031_lowest-frequency-element/README.md) | Step 1: Learn the Basics |
 | `2026-08-10` | [Highest Frequency Element](01_learn-the-basics/06_learn-basic-hashing/030_highest-frequency-element/README.md) | Step 1: Learn the Basics |
 | `2026-08-10` | [Count Frequencies of Array Elements](01_learn-the-basics/06_learn-basic-hashing/029_count-frequencies-of-array-elements/README.md) | Step 1: Learn the Basics |
-| `2026-08-10` | [Hashing Theory and Implementation](01_learn-the-basics/06_learn-basic-hashing/028_hashing-theory-and-implementation/README.md) | Step 1: Learn the Basics |
 
 ---
 
