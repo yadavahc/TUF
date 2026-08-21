@@ -8,18 +8,18 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░  8.6%
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░  8.8%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **39 / 452** |
-| 📈 Completion | **8.6%** |
-| 🗓️ Last updated | 2026-08-20 |
+| ✅ Problems solved | **40 / 452** |
+| 📈 Completion | **8.8%** |
+| 🗓️ Last updated | 2026-08-21 |
 
 ## 🧭 Latest solved
 
-**[Largest Element in an Array](03_solve-problems-on-arrays/01_easy/039_largest-element-in-an-array/README.md)** — Step 3: Solve Problems on Arrays (`2026-08-20`)
+**[Second Largest Element in an Array](03_solve-problems-on-arrays/01_easy/040_second-largest-element-in-an-array/README.md)** — Step 3: Solve Problems on Arrays (`2026-08-21`)
 
 ## 🗂️ Topic-wise progress
 
@@ -27,7 +27,7 @@ the intuition, approach, algorithm and complexity.
 |---|---|---|---|---|
 | ✅ | Step 1 | Learn the Basics | 31 / 31 | 100% |
 | ✅ | Step 2 | Learn Important Sorting Techniques | 7 / 7 | 100% |
-| 🔄 | Step 3 | Solve Problems on Arrays | 1 / 40 | 2% |
+| 🔄 | Step 3 | Solve Problems on Arrays | 2 / 40 | 5% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
 | ⬜ | Step 5 | Strings Basic and Medium | 0 / 15 | 0% |
 | ⬜ | Step 6 | Learn LinkedList | 0 / 31 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-08-21` | [Second Largest Element in an Array](03_solve-problems-on-arrays/01_easy/040_second-largest-element-in-an-array/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-20` | [Largest Element in an Array](03_solve-problems-on-arrays/01_easy/039_largest-element-in-an-array/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-19` | [Quick Sort](02_learn-important-sorting-techniques/02_sorting-ii/038_quick-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-17` | [Recursive Insertion Sort](02_learn-important-sorting-techniques/02_sorting-ii/037_recursive-insertion-sort/README.md) | Step 2: Learn Important Sorting Techniques |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-08-13` | [Bubble Sort](02_learn-important-sorting-techniques/01_sorting-i/033_bubble-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-12` | [Selection Sort](02_learn-important-sorting-techniques/01_sorting-i/032_selection-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-11` | [Lowest Frequency Element](01_learn-the-basics/06_learn-basic-hashing/031_lowest-frequency-element/README.md) | Step 1: Learn the Basics |
-| `2026-08-10` | [Highest Frequency Element](01_learn-the-basics/06_learn-basic-hashing/030_highest-frequency-element/README.md) | Step 1: Learn the Basics |
 
 ---
 
