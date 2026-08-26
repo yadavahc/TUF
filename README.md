@@ -8,18 +8,18 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░  9.7%
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░  10.0%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **44 / 452** |
-| 📈 Completion | **9.7%** |
-| 🗓️ Last updated | 2026-08-25 |
+| ✅ Problems solved | **45 / 452** |
+| 📈 Completion | **10.0%** |
+| 🗓️ Last updated | 2026-08-26 |
 
 ## 🧭 Latest solved
 
-**[Left Rotate an Array by D Places](03_solve-problems-on-arrays/01_easy/044_left-rotate-an-array-by-d-places/README.md)** — Step 3: Solve Problems on Arrays (`2026-08-25`)
+**[Move Zeros to End](03_solve-problems-on-arrays/01_easy/045_move-zeros-to-end/README.md)** — Step 3: Solve Problems on Arrays (`2026-08-26`)
 
 ## 🗂️ Topic-wise progress
 
@@ -27,7 +27,7 @@ the intuition, approach, algorithm and complexity.
 |---|---|---|---|---|
 | ✅ | Step 1 | Learn the Basics | 31 / 31 | 100% |
 | ✅ | Step 2 | Learn Important Sorting Techniques | 7 / 7 | 100% |
-| 🔄 | Step 3 | Solve Problems on Arrays | 6 / 40 | 15% |
+| 🔄 | Step 3 | Solve Problems on Arrays | 7 / 40 | 18% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
 | ⬜ | Step 5 | Strings Basic and Medium | 0 / 15 | 0% |
 | ⬜ | Step 6 | Learn LinkedList | 0 / 31 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-08-26` | [Move Zeros to End](03_solve-problems-on-arrays/01_easy/045_move-zeros-to-end/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-25` | [Left Rotate an Array by D Places](03_solve-problems-on-arrays/01_easy/044_left-rotate-an-array-by-d-places/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-24` | [Left Rotate an Array by One Place](03_solve-problems-on-arrays/01_easy/043_left-rotate-an-array-by-one-place/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-23` | [Remove Duplicates from Sorted Array](03_solve-problems-on-arrays/01_easy/042_remove-duplicates-from-sorted-array/README.md) | Step 3: Solve Problems on Arrays |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-08-19` | [Quick Sort](02_learn-important-sorting-techniques/02_sorting-ii/038_quick-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-17` | [Recursive Insertion Sort](02_learn-important-sorting-techniques/02_sorting-ii/037_recursive-insertion-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 | `2026-08-16` | [Recursive Bubble Sort](02_learn-important-sorting-techniques/02_sorting-ii/036_recursive-bubble-sort/README.md) | Step 2: Learn Important Sorting Techniques |
-| `2026-08-15` | [Merge Sort](02_learn-important-sorting-techniques/02_sorting-ii/035_merge-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 
 ---
 
