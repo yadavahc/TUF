@@ -8,18 +8,18 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░  10.4%
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░  10.6%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **47 / 452** |
-| 📈 Completion | **10.4%** |
-| 🗓️ Last updated | 2026-08-28 |
+| ✅ Problems solved | **48 / 452** |
+| 📈 Completion | **10.6%** |
+| 🗓️ Last updated | 2026-08-29 |
 
 ## 🧭 Latest solved
 
-**[Union of Two Sorted Arrays](03_solve-problems-on-arrays/01_easy/047_union-of-two-sorted-arrays/README.md)** — Step 3: Solve Problems on Arrays (`2026-08-28`)
+**[Find Missing Number in an Array](03_solve-problems-on-arrays/01_easy/048_find-missing-number-in-an-array/README.md)** — Step 3: Solve Problems on Arrays (`2026-08-29`)
 
 ## 🗂️ Topic-wise progress
 
@@ -27,7 +27,7 @@ the intuition, approach, algorithm and complexity.
 |---|---|---|---|---|
 | ✅ | Step 1 | Learn the Basics | 31 / 31 | 100% |
 | ✅ | Step 2 | Learn Important Sorting Techniques | 7 / 7 | 100% |
-| 🔄 | Step 3 | Solve Problems on Arrays | 9 / 40 | 22% |
+| 🔄 | Step 3 | Solve Problems on Arrays | 10 / 40 | 25% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
 | ⬜ | Step 5 | Strings Basic and Medium | 0 / 15 | 0% |
 | ⬜ | Step 6 | Learn LinkedList | 0 / 31 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-08-29` | [Find Missing Number in an Array](03_solve-problems-on-arrays/01_easy/048_find-missing-number-in-an-array/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-28` | [Union of Two Sorted Arrays](03_solve-problems-on-arrays/01_easy/047_union-of-two-sorted-arrays/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-27` | [Linear Search](03_solve-problems-on-arrays/01_easy/046_linear-search/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-26` | [Move Zeros to End](03_solve-problems-on-arrays/01_easy/045_move-zeros-to-end/README.md) | Step 3: Solve Problems on Arrays |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-08-22` | [Check if the Array is Sorted](03_solve-problems-on-arrays/01_easy/041_check-if-the-array-is-sorted/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-21` | [Second Largest Element in an Array](03_solve-problems-on-arrays/01_easy/040_second-largest-element-in-an-array/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-20` | [Largest Element in an Array](03_solve-problems-on-arrays/01_easy/039_largest-element-in-an-array/README.md) | Step 3: Solve Problems on Arrays |
-| `2026-08-19` | [Quick Sort](02_learn-important-sorting-techniques/02_sorting-ii/038_quick-sort/README.md) | Step 2: Learn Important Sorting Techniques |
 
 ---
 
