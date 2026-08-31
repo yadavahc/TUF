@@ -8,18 +8,18 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░  10.8%
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░  11.1%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **49 / 452** |
-| 📈 Completion | **10.8%** |
-| 🗓️ Last updated | 2026-08-30 |
+| ✅ Problems solved | **50 / 452** |
+| 📈 Completion | **11.1%** |
+| 🗓️ Last updated | 2026-08-31 |
 
 ## 🧭 Latest solved
 
-**[Maximum Consecutive Ones](03_solve-problems-on-arrays/01_easy/049_maximum-consecutive-ones/README.md)** — Step 3: Solve Problems on Arrays (`2026-08-30`)
+**[Find the Number that Appears Once](03_solve-problems-on-arrays/01_easy/050_find-the-number-that-appears-once/README.md)** — Step 3: Solve Problems on Arrays (`2026-08-31`)
 
 ## 🗂️ Topic-wise progress
 
@@ -27,7 +27,7 @@ the intuition, approach, algorithm and complexity.
 |---|---|---|---|---|
 | ✅ | Step 1 | Learn the Basics | 31 / 31 | 100% |
 | ✅ | Step 2 | Learn Important Sorting Techniques | 7 / 7 | 100% |
-| 🔄 | Step 3 | Solve Problems on Arrays | 11 / 40 | 28% |
+| 🔄 | Step 3 | Solve Problems on Arrays | 12 / 40 | 30% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
 | ⬜ | Step 5 | Strings Basic and Medium | 0 / 15 | 0% |
 | ⬜ | Step 6 | Learn LinkedList | 0 / 31 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-08-31` | [Find the Number that Appears Once](03_solve-problems-on-arrays/01_easy/050_find-the-number-that-appears-once/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-30` | [Maximum Consecutive Ones](03_solve-problems-on-arrays/01_easy/049_maximum-consecutive-ones/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-29` | [Find Missing Number in an Array](03_solve-problems-on-arrays/01_easy/048_find-missing-number-in-an-array/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-28` | [Union of Two Sorted Arrays](03_solve-problems-on-arrays/01_easy/047_union-of-two-sorted-arrays/README.md) | Step 3: Solve Problems on Arrays |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-08-24` | [Left Rotate an Array by One Place](03_solve-problems-on-arrays/01_easy/043_left-rotate-an-array-by-one-place/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-23` | [Remove Duplicates from Sorted Array](03_solve-problems-on-arrays/01_easy/042_remove-duplicates-from-sorted-array/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-22` | [Check if the Array is Sorted](03_solve-problems-on-arrays/01_easy/041_check-if-the-array-is-sorted/README.md) | Step 3: Solve Problems on Arrays |
-| `2026-08-21` | [Second Largest Element in an Array](03_solve-problems-on-arrays/01_easy/040_second-largest-element-in-an-array/README.md) | Step 3: Solve Problems on Arrays |
 
 ---
 
