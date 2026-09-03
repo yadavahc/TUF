@@ -8,18 +8,18 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░  11.5%
+████░░░░░░░░░░░░░░░░░░░░░░░░░░  11.7%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **52 / 452** |
-| 📈 Completion | **11.5%** |
-| 🗓️ Last updated | 2026-09-02 |
+| ✅ Problems solved | **53 / 452** |
+| 📈 Completion | **11.7%** |
+| 🗓️ Last updated | 2026-09-03 |
 
 ## 🧭 Latest solved
 
-**[Longest Subarray with Sum K (Positives and Negatives)](03_solve-problems-on-arrays/01_easy/052_longest-subarray-with-sum-k-positives-and-negatives/README.md)** — Step 3: Solve Problems on Arrays (`2026-09-02`)
+**[Two Sum](03_solve-problems-on-arrays/02_medium/053_two-sum/README.md)** — Step 3: Solve Problems on Arrays (`2026-09-03`)
 
 ## 🗂️ Topic-wise progress
 
@@ -27,7 +27,7 @@ the intuition, approach, algorithm and complexity.
 |---|---|---|---|---|
 | ✅ | Step 1 | Learn the Basics | 31 / 31 | 100% |
 | ✅ | Step 2 | Learn Important Sorting Techniques | 7 / 7 | 100% |
-| 🔄 | Step 3 | Solve Problems on Arrays | 14 / 40 | 35% |
+| 🔄 | Step 3 | Solve Problems on Arrays | 15 / 40 | 38% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
 | ⬜ | Step 5 | Strings Basic and Medium | 0 / 15 | 0% |
 | ⬜ | Step 6 | Learn LinkedList | 0 / 31 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-09-03` | [Two Sum](03_solve-problems-on-arrays/02_medium/053_two-sum/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-02` | [Longest Subarray with Sum K (Positives and Negatives)](03_solve-problems-on-arrays/01_easy/052_longest-subarray-with-sum-k-positives-and-negatives/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-01` | [Longest Subarray with Sum K (Positives)](03_solve-problems-on-arrays/01_easy/051_longest-subarray-with-sum-k-positives/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-31` | [Find the Number that Appears Once](03_solve-problems-on-arrays/01_easy/050_find-the-number-that-appears-once/README.md) | Step 3: Solve Problems on Arrays |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-08-27` | [Linear Search](03_solve-problems-on-arrays/01_easy/046_linear-search/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-26` | [Move Zeros to End](03_solve-problems-on-arrays/01_easy/045_move-zeros-to-end/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-25` | [Left Rotate an Array by D Places](03_solve-problems-on-arrays/01_easy/044_left-rotate-an-array-by-d-places/README.md) | Step 3: Solve Problems on Arrays |
-| `2026-08-24` | [Left Rotate an Array by One Place](03_solve-problems-on-arrays/01_easy/043_left-rotate-an-array-by-one-place/README.md) | Step 3: Solve Problems on Arrays |
 
 ---
 
