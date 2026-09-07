@@ -8,18 +8,18 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-████░░░░░░░░░░░░░░░░░░░░░░░░░░  12.4%
+████░░░░░░░░░░░░░░░░░░░░░░░░░░  12.6%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **56 / 452** |
-| 📈 Completion | **12.4%** |
-| 🗓️ Last updated | 2026-09-06 |
+| ✅ Problems solved | **57 / 452** |
+| 📈 Completion | **12.6%** |
+| 🗓️ Last updated | 2026-09-07 |
 
 ## 🧭 Latest solved
 
-**[Kadane's Algorithm - Maximum Subarray Sum](03_solve-problems-on-arrays/02_medium/056_kadane-s-algorithm-maximum-subarray-sum/README.md)** — Step 3: Solve Problems on Arrays (`2026-09-06`)
+**[Print Subarray with Maximum Subarray Sum](03_solve-problems-on-arrays/02_medium/057_print-subarray-with-maximum-subarray-sum/README.md)** — Step 3: Solve Problems on Arrays (`2026-09-07`)
 
 ## 🗂️ Topic-wise progress
 
@@ -27,7 +27,7 @@ the intuition, approach, algorithm and complexity.
 |---|---|---|---|---|
 | ✅ | Step 1 | Learn the Basics | 31 / 31 | 100% |
 | ✅ | Step 2 | Learn Important Sorting Techniques | 7 / 7 | 100% |
-| 🔄 | Step 3 | Solve Problems on Arrays | 18 / 40 | 45% |
+| 🔄 | Step 3 | Solve Problems on Arrays | 19 / 40 | 48% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
 | ⬜ | Step 5 | Strings Basic and Medium | 0 / 15 | 0% |
 | ⬜ | Step 6 | Learn LinkedList | 0 / 31 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-09-07` | [Print Subarray with Maximum Subarray Sum](03_solve-problems-on-arrays/02_medium/057_print-subarray-with-maximum-subarray-sum/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-06` | [Kadane's Algorithm - Maximum Subarray Sum](03_solve-problems-on-arrays/02_medium/056_kadane-s-algorithm-maximum-subarray-sum/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-05` | [Majority Element (More than N/2 Times)](03_solve-problems-on-arrays/02_medium/055_majority-element-more-than-n-2-times/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-04` | [Sort an Array of 0s 1s and 2s](03_solve-problems-on-arrays/02_medium/054_sort-an-array-of-0s-1s-and-2s/README.md) | Step 3: Solve Problems on Arrays |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-08-31` | [Find the Number that Appears Once](03_solve-problems-on-arrays/01_easy/050_find-the-number-that-appears-once/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-30` | [Maximum Consecutive Ones](03_solve-problems-on-arrays/01_easy/049_maximum-consecutive-ones/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-29` | [Find Missing Number in an Array](03_solve-problems-on-arrays/01_easy/048_find-missing-number-in-an-array/README.md) | Step 3: Solve Problems on Arrays |
-| `2026-08-28` | [Union of Two Sorted Arrays](03_solve-problems-on-arrays/01_easy/047_union-of-two-sorted-arrays/README.md) | Step 3: Solve Problems on Arrays |
 
 ---
 
