@@ -8,18 +8,18 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-████░░░░░░░░░░░░░░░░░░░░░░░░░░  12.8%
+████░░░░░░░░░░░░░░░░░░░░░░░░░░  13.1%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **58 / 452** |
-| 📈 Completion | **12.8%** |
-| 🗓️ Last updated | 2026-09-08 |
+| ✅ Problems solved | **59 / 452** |
+| 📈 Completion | **13.1%** |
+| 🗓️ Last updated | 2026-09-09 |
 
 ## 🧭 Latest solved
 
-**[Best Time to Buy and Sell Stock](03_solve-problems-on-arrays/02_medium/058_best-time-to-buy-and-sell-stock/README.md)** — Step 3: Solve Problems on Arrays (`2026-09-08`)
+**[Rearrange Array Elements by Sign](03_solve-problems-on-arrays/02_medium/059_rearrange-array-elements-by-sign/README.md)** — Step 3: Solve Problems on Arrays (`2026-09-09`)
 
 ## 🗂️ Topic-wise progress
 
@@ -27,7 +27,7 @@ the intuition, approach, algorithm and complexity.
 |---|---|---|---|---|
 | ✅ | Step 1 | Learn the Basics | 31 / 31 | 100% |
 | ✅ | Step 2 | Learn Important Sorting Techniques | 7 / 7 | 100% |
-| 🔄 | Step 3 | Solve Problems on Arrays | 20 / 40 | 50% |
+| 🔄 | Step 3 | Solve Problems on Arrays | 21 / 40 | 52% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
 | ⬜ | Step 5 | Strings Basic and Medium | 0 / 15 | 0% |
 | ⬜ | Step 6 | Learn LinkedList | 0 / 31 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-09-09` | [Rearrange Array Elements by Sign](03_solve-problems-on-arrays/02_medium/059_rearrange-array-elements-by-sign/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-08` | [Best Time to Buy and Sell Stock](03_solve-problems-on-arrays/02_medium/058_best-time-to-buy-and-sell-stock/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-07` | [Print Subarray with Maximum Subarray Sum](03_solve-problems-on-arrays/02_medium/057_print-subarray-with-maximum-subarray-sum/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-06` | [Kadane's Algorithm - Maximum Subarray Sum](03_solve-problems-on-arrays/02_medium/056_kadane-s-algorithm-maximum-subarray-sum/README.md) | Step 3: Solve Problems on Arrays |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-09-02` | [Longest Subarray with Sum K (Positives and Negatives)](03_solve-problems-on-arrays/01_easy/052_longest-subarray-with-sum-k-positives-and-negatives/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-01` | [Longest Subarray with Sum K (Positives)](03_solve-problems-on-arrays/01_easy/051_longest-subarray-with-sum-k-positives/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-08-31` | [Find the Number that Appears Once](03_solve-problems-on-arrays/01_easy/050_find-the-number-that-appears-once/README.md) | Step 3: Solve Problems on Arrays |
-| `2026-08-30` | [Maximum Consecutive Ones](03_solve-problems-on-arrays/01_easy/049_maximum-consecutive-ones/README.md) | Step 3: Solve Problems on Arrays |
 
 ---
 
