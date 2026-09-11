@@ -8,18 +8,18 @@ the intuition, approach, algorithm and complexity.
 ## 📊 Progress
 
 ```
-████░░░░░░░░░░░░░░░░░░░░░░░░░░  13.3%
+████░░░░░░░░░░░░░░░░░░░░░░░░░░  13.5%
 ```
 
 | Metric | Value |
 |---|---|
-| ✅ Problems solved | **60 / 452** |
-| 📈 Completion | **13.3%** |
-| 🗓️ Last updated | 2026-09-10 |
+| ✅ Problems solved | **61 / 452** |
+| 📈 Completion | **13.5%** |
+| 🗓️ Last updated | 2026-09-11 |
 
 ## 🧭 Latest solved
 
-**[Next Permutation](03_solve-problems-on-arrays/02_medium/060_next-permutation/README.md)** — Step 3: Solve Problems on Arrays (`2026-09-10`)
+**[Leaders in an Array](03_solve-problems-on-arrays/02_medium/061_leaders-in-an-array/README.md)** — Step 3: Solve Problems on Arrays (`2026-09-11`)
 
 ## 🗂️ Topic-wise progress
 
@@ -27,7 +27,7 @@ the intuition, approach, algorithm and complexity.
 |---|---|---|---|---|
 | ✅ | Step 1 | Learn the Basics | 31 / 31 | 100% |
 | ✅ | Step 2 | Learn Important Sorting Techniques | 7 / 7 | 100% |
-| 🔄 | Step 3 | Solve Problems on Arrays | 22 / 40 | 55% |
+| 🔄 | Step 3 | Solve Problems on Arrays | 23 / 40 | 57% |
 | ⬜ | Step 4 | Binary Search | 0 / 32 | 0% |
 | ⬜ | Step 5 | Strings Basic and Medium | 0 / 15 | 0% |
 | ⬜ | Step 6 | Learn LinkedList | 0 / 31 | 0% |
@@ -48,6 +48,7 @@ the intuition, approach, algorithm and complexity.
 
 | Date | Problem | Topic |
 |---|---|---|
+| `2026-09-11` | [Leaders in an Array](03_solve-problems-on-arrays/02_medium/061_leaders-in-an-array/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-10` | [Next Permutation](03_solve-problems-on-arrays/02_medium/060_next-permutation/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-09` | [Rearrange Array Elements by Sign](03_solve-problems-on-arrays/02_medium/059_rearrange-array-elements-by-sign/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-08` | [Best Time to Buy and Sell Stock](03_solve-problems-on-arrays/02_medium/058_best-time-to-buy-and-sell-stock/README.md) | Step 3: Solve Problems on Arrays |
@@ -57,7 +58,6 @@ the intuition, approach, algorithm and complexity.
 | `2026-09-04` | [Sort an Array of 0s 1s and 2s](03_solve-problems-on-arrays/02_medium/054_sort-an-array-of-0s-1s-and-2s/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-03` | [Two Sum](03_solve-problems-on-arrays/02_medium/053_two-sum/README.md) | Step 3: Solve Problems on Arrays |
 | `2026-09-02` | [Longest Subarray with Sum K (Positives and Negatives)](03_solve-problems-on-arrays/01_easy/052_longest-subarray-with-sum-k-positives-and-negatives/README.md) | Step 3: Solve Problems on Arrays |
-| `2026-09-01` | [Longest Subarray with Sum K (Positives)](03_solve-problems-on-arrays/01_easy/051_longest-subarray-with-sum-k-positives/README.md) | Step 3: Solve Problems on Arrays |
 
 ---
 
